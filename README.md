@@ -5,9 +5,9 @@ I am a passionate San-Francisco-based Software Engineer with a diverse backgroun
 
 - 💬 Ask me about **Javascript, React.js, Node.js**
 
-- 📫 How to reach me **anh.hxx@gmail.com**
+- 📫 Reach me at **anh.hxx@gmail.com**
 
-- ⚡ Fun fact **I love singin' in the rain**
+- ⚡ Fun fact **I love singin' in the rain** 🌧️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
