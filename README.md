@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Anh</h1>
-<h3 align="center">I am a passionate San-Francisco-based Software Engineer with a diverse background in Media and B2B Technology Marketing. I'm proud of being a woman developer who is motivated by the power of technology as a tool for positive change. I love solving problem with code and the idea that computer never lies, it will do whatever you tell it to do, unless you are telling them wrong! I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.</h3>
+<h3 align="left">I am a passionate San-Francisco-based Software Engineer with a diverse background in Media and B2B Technology Marketing. I'm proud of being a woman developer who is motivated by the power of technology as a tool for positive change. I love solving problem with code and the idea that computer never lies, it will do whatever you tell it to do, unless you are telling them wrong! I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.</h3>
 
 - 🔭 I’m currently working on **EPIC - Ecologically Prudent Impact Calculator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anh huynh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anh huynh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anh-huynh-devs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anh huynh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
