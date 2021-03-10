@@ -1,7 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Anh</h1>
 I am a passionate San-Francisco-based Software Engineer with a diverse background in Media and B2B Technology Marketing. I'm proud of being a woman developer who is motivated by the power of technology as a tool for positive change. I love solving problem with code and the idea that computer never lies, it will do whatever you tell it to do, unless you are telling them wrong! I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
-- 🔭 I’m currently working on **EPIC - Ecologically Prudent Impact Calculator**
+- 🔭 I’m currently working on **EPIC - An Ecologically Prudent Impact Calculator**
+
+- 💬 Ask me about **Javascript, React.js, Node.js**
+
+- 📫 How to reach me **anh.hxx@gmail.com**
+
+- ⚡ Fun fact **I love singin' in the rain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
